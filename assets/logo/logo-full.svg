@@ -1,0 +1,51 @@
+<svg width="320" height="100" viewBox="0 0 320 100" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Cube Icon -->
+<g transform="translate(20,20)">
+
+<path d="M30 0 L60 15 L60 55 L30 70 L0 55 L0 15 Z"
+stroke="#FF6B35"
+stroke-width="3"
+fill="none"/>
+
+<path d="M30 20 L45 27 L45 45 L30 52 L15 45 L15 27 Z"
+stroke="#FF6B35"
+stroke-width="2"
+stroke-dasharray="3 2"
+fill="none"/>
+
+<path d="M20 35 Q30 25 40 35 Q50 45 60 35"
+stroke="#FF6B35"
+stroke-width="2"
+fill="none"
+stroke-linecap="round"/>
+
+<path d="M20 45 Q30 55 40 45 Q50 35 60 45"
+stroke="#FF6B35"
+stroke-width="2"
+fill="none"
+stroke-linecap="round"/>
+
+</g>
+
+<!-- Text -->
+<text x="110" y="40"
+font-family="Inter, sans-serif"
+font-size="14"
+fill="#1A1E24">
+
+INSTITUTE OF
+
+</text>
+
+<text x="110" y="65"
+font-family="Inter, sans-serif"
+font-size="24"
+font-weight="700"
+fill="#FF6B35">
+
+DIGITAL RISK
+
+</text>
+
+</svg>
